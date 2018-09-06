@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Anaconda
 sudo apt-get install -y wget
